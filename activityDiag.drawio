@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T06:13:23.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="zR3PWXo0nIXyMK8VKDCb" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T06:26:03.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="pJCW1iTBvGh6yTkf4VnK" version="24.4.4" type="github">
   <diagram name="Page-1" id="An3NPMX3gxaZM4QJ-4wr">
-    <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1956" dy="947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
           <mxGeometry x="180" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JBsMDx6SccmFJjwg7HPy-15" value="restaurant open" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="460" width="110" height="30" as="geometry" />
+          <mxGeometry x="135" y="460" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="952CMc0hhrlckDcZEvze-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.537;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JBsMDx6SccmFJjwg7HPy-16" target="952CMc0hhrlckDcZEvze-10">
           <mxGeometry relative="1" as="geometry">
@@ -84,7 +84,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="952CMc0hhrlckDcZEvze-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="242.5" y="672.5" width="5" height="135" as="geometry" />
+          <mxGeometry x="244.75" y="656.25" width="5" height="167.5" as="geometry" />
         </mxCell>
         <mxCell id="952CMc0hhrlckDcZEvze-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -101,6 +101,23 @@
         </mxCell>
         <mxCell id="952CMc0hhrlckDcZEvze-16" value="view total price" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="270" y="840" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="952CMc0hhrlckDcZEvze-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="952CMc0hhrlckDcZEvze-18" target="952CMc0hhrlckDcZEvze-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="248.1300000000001" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="952CMc0hhrlckDcZEvze-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="245.63" y="891.88" width="5" height="176.25" as="geometry" />
+        </mxCell>
+        <mxCell id="952CMc0hhrlckDcZEvze-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="952CMc0hhrlckDcZEvze-16" target="952CMc0hhrlckDcZEvze-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="952CMc0hhrlckDcZEvze-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.76;entryY=0.885;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="952CMc0hhrlckDcZEvze-14" target="952CMc0hhrlckDcZEvze-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="952CMc0hhrlckDcZEvze-23" value="" style="ellipse;html=1;shape=endState;" vertex="1" parent="1">
+          <mxGeometry x="233.1300000000001" y="1025" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
