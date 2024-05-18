@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T06:07:21.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="88zpqMiP0IWZrJy-9Eew" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T06:13:23.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="zR3PWXo0nIXyMK8VKDCb" version="24.4.4" type="github">
   <diagram name="Page-1" id="An3NPMX3gxaZM4QJ-4wr">
-    <mxGraphModel dx="936" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,8 +66,41 @@
         <mxCell id="JBsMDx6SccmFJjwg7HPy-15" value="restaurant open" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="460" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="952CMc0hhrlckDcZEvze-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.537;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JBsMDx6SccmFJjwg7HPy-16" target="952CMc0hhrlckDcZEvze-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JBsMDx6SccmFJjwg7HPy-16" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;list menu items and prices&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="952CMc0hhrlckDcZEvze-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="952CMc0hhrlckDcZEvze-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="800" />
+              <mxPoint x="210" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="952CMc0hhrlckDcZEvze-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="672.5" width="5" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="952CMc0hhrlckDcZEvze-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="840" as="targetPoint" />
+            <mxPoint x="299" y="743" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="299" y="780" />
+              <mxPoint x="299" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="952CMc0hhrlckDcZEvze-14" value="add items" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="840" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="952CMc0hhrlckDcZEvze-16" value="view total price" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="840" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
